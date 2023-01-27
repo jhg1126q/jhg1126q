@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 3년차 개발자 길지훈입니다 👋
+
+프론트엔드 개발자 길지훈입니다.
 
 <!--
 **jhg1126q/jhg1126q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
