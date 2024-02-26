@@ -18,7 +18,7 @@
 
 ## Education
 
-- 📖 **Web Development**\
+- 📖 **Computer Information and Communication Engineering**\
 📆 2012 - 2016\
 📍 **Sejong University** - Seoul, South Korea
 
